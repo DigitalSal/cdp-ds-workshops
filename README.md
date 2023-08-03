@@ -1,2 +1,2 @@
 # cdp-ds-workshops
-[](./images/AMERPartnerWSBanner.png)
+![CDP Workshops](./images/AMERPartnerWSBanner.png)
