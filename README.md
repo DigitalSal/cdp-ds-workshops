@@ -1,2 +1,2 @@
 # cdp-ds-workshops
-image::./images/AMERPartnerWSBanner.png[]
+[](./images/AMERPartnerWSBanner.png)
